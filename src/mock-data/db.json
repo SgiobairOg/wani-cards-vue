@@ -1,0 +1,591 @@
+{
+  "kanji": {
+    "object": "collection",
+    "url": "https://api.wanikani.com/v2/subjects?types=kanji",
+    "pages": {
+        "per_page": 1000,
+        "next_url": "https://api.wanikani.com/v2/subjects?page_after_id=1439&types=kanji",
+        "previous_url": null
+    },
+    "total_count": 2074,
+    "data_updated_at": "2022-06-03T18:49:18.829363Z",
+    "data": [
+        {
+            "id": 440,
+            "object": "kanji",
+            "url": "https://api.wanikani.com/v2/subjects/440",
+            "data_updated_at": "2022-06-03T12:31:32.579006Z",
+            "data": {
+                "created_at": "2012-02-27T19:55:19.000000Z",
+                "level": 1,
+                "slug": "一",
+                "hidden_at": null,
+                "document_url": "https://www.wanikani.com/kanji/%E4%B8%80",
+                "characters": "一",
+                "meanings": [
+                    {
+                        "meaning": "One",
+                        "primary": true,
+                        "accepted_answer": true
+                    }
+                ],
+                "auxiliary_meanings": [
+                    {
+                        "type": "whitelist",
+                        "meaning": "1"
+                    }
+                ],
+                "readings": [
+                    {
+                        "type": "onyomi",
+                        "primary": true,
+                        "reading": "いち",
+                        "accepted_answer": true
+                    },
+                    {
+                        "type": "kunyomi",
+                        "primary": false,
+                        "reading": "ひと",
+                        "accepted_answer": false
+                    },
+                    {
+                        "type": "nanori",
+                        "primary": false,
+                        "reading": "かず",
+                        "accepted_answer": false
+                    },
+                    {
+                        "type": "onyomi",
+                        "primary": true,
+                        "reading": "いつ",
+                        "accepted_answer": true
+                    }
+                ],
+                "component_subject_ids": [
+                    1
+                ],
+                "amalgamation_subject_ids": [
+                    2467,
+                    2468,
+                    2477,
+                    2510,
+                    2544,
+                    2588,
+                    2627,
+                    2660,
+                    2665,
+                    2672,
+                    2679,
+                    2721,
+                    2730,
+                    2751,
+                    2959,
+                    3048,
+                    3256,
+                    3335,
+                    3348,
+                    3349,
+                    3372,
+                    3481,
+                    3527,
+                    3528,
+                    3656,
+                    3663,
+                    4133,
+                    4173,
+                    4258,
+                    4282,
+                    4563,
+                    4615,
+                    4701,
+                    4823,
+                    4906,
+                    5050,
+                    5224,
+                    5237,
+                    5349,
+                    5362,
+                    5838,
+                    6010,
+                    6029,
+                    6150,
+                    6169,
+                    6209,
+                    6210,
+                    6346,
+                    6584,
+                    6614,
+                    6723,
+                    6811,
+                    6851,
+                    7037,
+                    7293,
+                    7305,
+                    7451,
+                    7561,
+                    7617,
+                    7734,
+                    7780,
+                    7927,
+                    8209,
+                    8214,
+                    8414,
+                    8456,
+                    8583,
+                    8709,
+                    8896,
+                    8921,
+                    9056,
+                    9103
+                ],
+                "visually_similar_subject_ids": [],
+                "meaning_mnemonic": "Lying on the <radical>ground</radical> is something that looks just like the ground, the number <kanji>One</kanji>. Why is this One lying down? It's been shot by the number two. It's lying there, bleeding out and dying. The number One doesn't have long to live.",
+                "meaning_hint": "To remember the meaning of <kanji>One</kanji>, imagine yourself there at the scene of the crime. You grab <kanji>One</kanji> in your arms, trying to prop it up, trying to hear its last words. Instead, it just splatters some blood on your face. \"Who did this to you?\" you ask. The number One points weakly, and you see number Two running off into an alleyway. He's always been jealous of number One and knows he can be number one now that he's taken the real number one out.",
+                "reading_mnemonic": "As you're sitting there next to <kanji>One</kanji>, holding him up, you start feeling a weird sensation all over your skin. From the wound comes a fine powder (obviously coming from the special bullet used to kill One) that causes the person it touches to get extremely <reading>itchy</reading> (<ja>いち</ja>).",
+                "reading_hint": "Make sure you feel the ridiculously <reading>itchy</reading> sensation covering your body. It climbs from your hands, where you're holding the number <kanji>One</kanji> up, and then goes through your arms, crawls up your neck, goes down your body, and then covers everything. It becomes uncontrollable, and you're scratching everywhere, writhing on the ground. It's so itchy that it's the most painful thing you've ever experienced (you should imagine this vividly, so you remember the reading of this kanji).",
+                "lesson_position": 26,
+                "spaced_repetition_system_id": 2
+            }
+        }
+    ]
+  },
+  "vocabulary": {
+    "object": "collection",
+    "url": "https://api.wanikani.com/v2/subjects?ids=2467%2C2468%2C2477&types=vocabulary",
+    "pages": {
+        "per_page": 1000,
+        "next_url": null,
+        "previous_url": null
+    },
+    "total_count": 3,
+    "data_updated_at": "2021-09-01T18:22:41.837975Z",
+    "data": [
+        {
+            "id": 2467,
+            "object": "vocabulary",
+            "url": "https://api.wanikani.com/v2/subjects/2467",
+            "data_updated_at": "2021-09-01T18:22:40.891504Z",
+            "data": {
+                "created_at": "2012-02-28T08:04:47.000000Z",
+                "level": 1,
+                "slug": "一",
+                "hidden_at": null,
+                "document_url": "https://www.wanikani.com/vocabulary/%E4%B8%80",
+                "characters": "一",
+                "meanings": [
+                    {
+                        "meaning": "One",
+                        "primary": true,
+                        "accepted_answer": true
+                    }
+                ],
+                "auxiliary_meanings": [
+                    {
+                        "type": "whitelist",
+                        "meaning": "1"
+                    }
+                ],
+                "readings": [
+                    {
+                        "primary": true,
+                        "reading": "いち",
+                        "accepted_answer": true
+                    }
+                ],
+                "parts_of_speech": [
+                    "numeral"
+                ],
+                "component_subject_ids": [
+                    440
+                ],
+                "meaning_mnemonic": "As is the case with most vocab words that consist of a single kanji, this vocab word has the same meaning as the kanji it parallels, which is <vocabulary>one</vocabulary>.",
+                "reading_mnemonic": "When a vocab word is all alone and has no okurigana (hiragana attached to kanji) connected to it, it usually uses the kun'yomi reading. Numbers are an exception, however. When a number is all alone, with no kanji or okurigana, it is going to be the on'yomi reading, which you learned with the kanji.  Just remember this exception for alone numbers and you'll be able to read future number-related vocab to come.",
+                "context_sentences": [
+                    {
+                        "en": "Let’s meet up once.",
+                        "ja": "一ど、あいましょう。"
+                    },
+                    {
+                        "en": "First place was an American.",
+                        "ja": "一いはアメリカ人でした。"
+                    },
+                    {
+                        "en": "I’m the weakest (person) in the world.",
+                        "ja": "ぼくはせかいで一ばんよわい。"
+                    }
+                ],
+                "pronunciation_audios": [
+                    {
+                        "url": "https://files.wanikani.com/aeevlg446own3mcs6rye6k4wfq37",
+                        "metadata": {
+                            "gender": "female",
+                            "source_id": 21630,
+                            "pronunciation": "いち",
+                            "voice_actor_id": 1,
+                            "voice_actor_name": "Kyoko",
+                            "voice_description": "Tokyo accent"
+                        },
+                        "content_type": "audio/ogg"
+                    },
+                    {
+                        "url": "https://files.wanikani.com/w6loj76y9t8ppripy1eindt5dg3y",
+                        "metadata": {
+                            "gender": "female",
+                            "source_id": 21630,
+                            "pronunciation": "いち",
+                            "voice_actor_id": 1,
+                            "voice_actor_name": "Kyoko",
+                            "voice_description": "Tokyo accent"
+                        },
+                        "content_type": "audio/webm"
+                    },
+                    {
+                        "url": "https://files.wanikani.com/j5dy9yyxpzsywaxifq1c7yc3ctal",
+                        "metadata": {
+                            "gender": "male",
+                            "source_id": 2711,
+                            "pronunciation": "いち",
+                            "voice_actor_id": 2,
+                            "voice_actor_name": "Kenichi",
+                            "voice_description": "Tokyo accent"
+                        },
+                        "content_type": "audio/webm"
+                    },
+                    {
+                        "url": "https://files.wanikani.com/tfdkyds03nhrbs6to3e0q4avbg1u",
+                        "metadata": {
+                            "gender": "male",
+                            "source_id": 2711,
+                            "pronunciation": "いち",
+                            "voice_actor_id": 2,
+                            "voice_actor_name": "Kenichi",
+                            "voice_description": "Tokyo accent"
+                        },
+                        "content_type": "audio/webm"
+                    },
+                    {
+                        "url": "https://files.wanikani.com/vtyum09bj9tf2gle7i4ip04iao6s",
+                        "metadata": {
+                            "gender": "female",
+                            "source_id": 21630,
+                            "pronunciation": "いち",
+                            "voice_actor_id": 1,
+                            "voice_actor_name": "Kyoko",
+                            "voice_description": "Tokyo accent"
+                        },
+                        "content_type": "audio/webm"
+                    },
+                    {
+                        "url": "https://files.wanikani.com/5g89i8489j2joklaqdoy89rzhlqf",
+                        "metadata": {
+                            "gender": "male",
+                            "source_id": 2711,
+                            "pronunciation": "いち",
+                            "voice_actor_id": 2,
+                            "voice_actor_name": "Kenichi",
+                            "voice_description": "Tokyo accent"
+                        },
+                        "content_type": "audio/ogg"
+                    },
+                    {
+                        "url": "https://files.wanikani.com/jkdnvm82i2kl6my5ts67idq2qdc6",
+                        "metadata": {
+                            "gender": "male",
+                            "source_id": 2711,
+                            "pronunciation": "いち",
+                            "voice_actor_id": 2,
+                            "voice_actor_name": "Kenichi",
+                            "voice_description": "Tokyo accent"
+                        },
+                        "content_type": "audio/mpeg"
+                    },
+                    {
+                        "url": "https://files.wanikani.com/dwikzn441ltuq4evi7bmt5g3v7q2",
+                        "metadata": {
+                            "gender": "female",
+                            "source_id": 21630,
+                            "pronunciation": "いち",
+                            "voice_actor_id": 1,
+                            "voice_actor_name": "Kyoko",
+                            "voice_description": "Tokyo accent"
+                        },
+                        "content_type": "audio/mpeg"
+                    }
+                ],
+                "lesson_position": 44,
+                "spaced_repetition_system_id": 2
+            }
+        },
+        {
+            "id": 2468,
+            "object": "vocabulary",
+            "url": "https://api.wanikani.com/v2/subjects/2468",
+            "data_updated_at": "2021-09-01T18:22:41.007818Z",
+            "data": {
+                "created_at": "2012-02-28T08:10:16.000000Z",
+                "level": 1,
+                "slug": "一つ",
+                "hidden_at": null,
+                "document_url": "https://www.wanikani.com/vocabulary/%E4%B8%80%E3%81%A4",
+                "characters": "一つ",
+                "meanings": [
+                    {
+                        "meaning": "One Thing",
+                        "primary": true,
+                        "accepted_answer": true
+                    }
+                ],
+                "auxiliary_meanings": [
+                    {
+                        "type": "whitelist",
+                        "meaning": "1 Thing"
+                    }
+                ],
+                "readings": [
+                    {
+                        "primary": true,
+                        "reading": "ひとつ",
+                        "accepted_answer": true
+                    }
+                ],
+                "parts_of_speech": [
+                    "numeral"
+                ],
+                "component_subject_ids": [
+                    440
+                ],
+                "meaning_mnemonic": "This word follows the \"number of things\" pattern where there's a kanji for a number plus <ja>つ</ja> on the end. Whenever you see this, you know the word means \"____ things.\" Knowing that, as long as you know the kanji (which you do) you can figure out what number of things it is. For this one, it's the kanji for <kanji>one</kanji> plus <ja>つ</ja>. So, this one is <vocabulary>one thing</vocabulary>.",
+                "reading_mnemonic": "Since all of the \"number of things\" words all follow the same pattern (number plus <ja>つ</ja>), you really just have to remember the part before the <ja>つ</ja> (and then remember that the <ja>つ</ja> is in all of these). All of the readings are the kun'yomi reading, which means we'll have to use a mnemonic to remember them (you know the on'yomi reading of the kanji portion).\r\n\r\nSo, you have <vocabulary>one thing</vocabulary>. What one thing do you have? You have one of He-Man's Toes, aka a single <reading>He-Toe</reading> (<ja>ひと</ja>). So what's the thing you have only one of? You have one He-Toe. Imagine He-Man walking around with one missing toe, trying to find you so he can get it back. At least you'll be able to run faster than him now.",
+                "context_sentences": [
+                    {
+                        "en": "Choose one answer.",
+                        "ja": "こたえを一つえらびます。"
+                    },
+                    {
+                        "en": "It's limited to one per customer.",
+                        "ja": "お一人さま一つかぎりです。"
+                    },
+                    {
+                        "en": "I met a one-eyed goblin yesterday.",
+                        "ja": "きのう、一つめこぞうにあった。"
+                    }
+                ],
+                "pronunciation_audios": [
+                    {
+                        "url": "https://files.wanikani.com/z0obsjpyiooa1qtrtkzox8a6lyfk",
+                        "metadata": {
+                            "gender": "female",
+                            "source_id": 21633,
+                            "pronunciation": "ひとつ",
+                            "voice_actor_id": 1,
+                            "voice_actor_name": "Kyoko",
+                            "voice_description": "Tokyo accent"
+                        },
+                        "content_type": "audio/mpeg"
+                    },
+                    {
+                        "url": "https://files.wanikani.com/sv2lvy1q93vw84x8vl33eujnq4sr",
+                        "metadata": {
+                            "gender": "male",
+                            "source_id": 2714,
+                            "pronunciation": "ひとつ",
+                            "voice_actor_id": 2,
+                            "voice_actor_name": "Kenichi",
+                            "voice_description": "Tokyo accent"
+                        },
+                        "content_type": "audio/mpeg"
+                    },
+                    {
+                        "url": "https://files.wanikani.com/yydafqkrup4w7mk8t2buyu4bf3ux",
+                        "metadata": {
+                            "gender": "male",
+                            "source_id": 2714,
+                            "pronunciation": "ひとつ",
+                            "voice_actor_id": 2,
+                            "voice_actor_name": "Kenichi",
+                            "voice_description": "Tokyo accent"
+                        },
+                        "content_type": "audio/ogg"
+                    },
+                    {
+                        "url": "https://files.wanikani.com/6q5kubbfs7fu06o9efl7c5putlnm",
+                        "metadata": {
+                            "gender": "female",
+                            "source_id": 21633,
+                            "pronunciation": "ひとつ",
+                            "voice_actor_id": 1,
+                            "voice_actor_name": "Kyoko",
+                            "voice_description": "Tokyo accent"
+                        },
+                        "content_type": "audio/webm"
+                    },
+                    {
+                        "url": "https://files.wanikani.com/atcqhpgwut3xd1zyrteqqy9tzpz1",
+                        "metadata": {
+                            "gender": "male",
+                            "source_id": 2714,
+                            "pronunciation": "ひとつ",
+                            "voice_actor_id": 2,
+                            "voice_actor_name": "Kenichi",
+                            "voice_description": "Tokyo accent"
+                        },
+                        "content_type": "audio/webm"
+                    },
+                    {
+                        "url": "https://files.wanikani.com/6eadx3stlc70yyrqylfrlx1v5nh5",
+                        "metadata": {
+                            "gender": "female",
+                            "source_id": 21633,
+                            "pronunciation": "ひとつ",
+                            "voice_actor_id": 1,
+                            "voice_actor_name": "Kyoko",
+                            "voice_description": "Tokyo accent"
+                        },
+                        "content_type": "audio/ogg"
+                    }
+                ],
+                "lesson_position": 45,
+                "spaced_repetition_system_id": 2
+            }
+        },
+        {
+            "id": 2477,
+            "object": "vocabulary",
+            "url": "https://api.wanikani.com/v2/subjects/2477",
+            "data_updated_at": "2021-09-01T18:22:41.837975Z",
+            "data": {
+                "created_at": "2012-02-28T08:15:02.000000Z",
+                "level": 1,
+                "slug": "一人",
+                "hidden_at": null,
+                "document_url": "https://www.wanikani.com/vocabulary/%E4%B8%80%E4%BA%BA",
+                "characters": "一人",
+                "meanings": [
+                    {
+                        "meaning": "Alone",
+                        "primary": true,
+                        "accepted_answer": true
+                    },
+                    {
+                        "meaning": "One Person",
+                        "primary": false,
+                        "accepted_answer": true
+                    }
+                ],
+                "auxiliary_meanings": [
+                    {
+                        "type": "whitelist",
+                        "meaning": "1 Person"
+                    }
+                ],
+                "readings": [
+                    {
+                        "primary": true,
+                        "reading": "ひとり",
+                        "accepted_answer": true
+                    }
+                ],
+                "parts_of_speech": [
+                    "noun"
+                ],
+                "component_subject_ids": [
+                    440,
+                    444
+                ],
+                "meaning_mnemonic": "When there's <kanji>one</kanji> <kanji>person</kanji>, what are they? Well, they're either just going to be simply <vocabulary>one person</vocabulary> or <vocabulary>alone</vocabulary>.",
+                "reading_mnemonic": "The reading for this vocab doesn't follow any rules you learned previously. It's an exception, which means you have to learn the reading separately too. Spend a few moments trying to remember this word, look away for 10 seconds, and then try to recall its reading. Could you do it? Try again, this time in thirty seconds. Did you do it again? Okay, go ahead and move on. You may know it now, though you'll need to recall it again in the next 5-10 minutes if you want to remember it for good.\r\n\r\nAlternatively, if you know the reading for the vocab word <ja>一つ</ja> (in the same level as this word), you can know that it uses the same reading!",
+                "context_sentences": [
+                    {
+                        "en": "I went to karaoke alone.",
+                        "ja": "一人でカラオケにいきました。"
+                    },
+                    {
+                        "en": "One of them is American.",
+                        "ja": "一人はアメリカ人です。"
+                    },
+                    {
+                        "en": "My daughter did the errands by herself for the first time today.",
+                        "ja": "むすめは、きょうはじめて一人でおつかいにいきました。"
+                    }
+                ],
+                "pronunciation_audios": [
+                    {
+                        "url": "https://files.wanikani.com/55otuh23tqqd5f96pov0bmeqszwu",
+                        "metadata": {
+                            "gender": "female",
+                            "source_id": 21632,
+                            "pronunciation": "ひとり",
+                            "voice_actor_id": 1,
+                            "voice_actor_name": "Kyoko",
+                            "voice_description": "Tokyo accent"
+                        },
+                        "content_type": "audio/webm"
+                    },
+                    {
+                        "url": "https://files.wanikani.com/2y2wxmjn5yazrk110dxqawcfb3sw",
+                        "metadata": {
+                            "gender": "male",
+                            "source_id": 2713,
+                            "pronunciation": "ひとり",
+                            "voice_actor_id": 2,
+                            "voice_actor_name": "Kenichi",
+                            "voice_description": "Tokyo accent"
+                        },
+                        "content_type": "audio/webm"
+                    },
+                    {
+                        "url": "https://files.wanikani.com/3yr77icmhzintbq7aw42vydrx0h3",
+                        "metadata": {
+                            "gender": "male",
+                            "source_id": 2713,
+                            "pronunciation": "ひとり",
+                            "voice_actor_id": 2,
+                            "voice_actor_name": "Kenichi",
+                            "voice_description": "Tokyo accent"
+                        },
+                        "content_type": "audio/ogg"
+                    },
+                    {
+                        "url": "https://files.wanikani.com/5qykp45bfb036y1muriebsv5ki6m",
+                        "metadata": {
+                            "gender": "male",
+                            "source_id": 2713,
+                            "pronunciation": "ひとり",
+                            "voice_actor_id": 2,
+                            "voice_actor_name": "Kenichi",
+                            "voice_description": "Tokyo accent"
+                        },
+                        "content_type": "audio/mpeg"
+                    },
+                    {
+                        "url": "https://files.wanikani.com/pg693rjzsh93nvmx4tkkq3tikf7o",
+                        "metadata": {
+                            "gender": "female",
+                            "source_id": 21632,
+                            "pronunciation": "ひとり",
+                            "voice_actor_id": 1,
+                            "voice_actor_name": "Kyoko",
+                            "voice_description": "Tokyo accent"
+                        },
+                        "content_type": "audio/mpeg"
+                    },
+                    {
+                        "url": "https://files.wanikani.com/0yx5xywcfri42y4456onfbxq4a9m",
+                        "metadata": {
+                            "gender": "female",
+                            "source_id": 21632,
+                            "pronunciation": "ひとり",
+                            "voice_actor_id": 1,
+                            "voice_actor_name": "Kyoko",
+                            "voice_description": "Tokyo accent"
+                        },
+                        "content_type": "audio/ogg"
+                    }
+                ],
+                "lesson_position": 54,
+                "spaced_repetition_system_id": 2
+            }
+        }
+    ]
+}
+}
